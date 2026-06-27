@@ -1,0 +1,31 @@
+# Secretos — NUNCA subir al repositorio
+.streamlit/secrets.toml
+
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Archivos locales / datos de carga (no necesarios en producción)
+Cargar Datos/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log

@@ -1,0 +1,6 @@
+# Secretos y entornos
+.streamlit/secrets.toml
+.venv/
+__pycache__/
+*.pyc
+.env
